@@ -1,0 +1,1 @@
+this is code for a class project and is messy! it implements an iterative procedure that fits conditional inference regression trees and a linear effects model, and a similar procedure that uses l2 boosted conditional inference regression trees and a linear mixed effects model. the scripts also generate data for a simulation to compare performance in various settings.
